@@ -1,0 +1,26 @@
+.btn {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 130%;
+  color: #333333;
+  text-align: center;
+  padding: 12px 37px;
+  cursor: pointer;
+  width: fit-content;
+  border: 1px solid #d7d7d7;
+}
+.pink-btn {
+  background-color: #f75163;
+  color: #fff;
+  border-color: #f75163;
+}
+
+.blue-btn {
+  background-color: #629ee2;
+}

@@ -1,0 +1,15 @@
+.auth-window {
+  height: 100vh;
+}
+.auth-block {
+  max-width: 400px;
+}
+.success {
+  color: green;
+}
+.warning {
+  color: #f75163;
+}
+.auth-string:not(:last-child) {
+  margin-bottom: 24px;
+}
